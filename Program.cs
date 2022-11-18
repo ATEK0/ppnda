@@ -25,7 +25,7 @@
                     StudentToAnswer();
                     return true;
                 case "2":
-                    GroupsComposition();
+                    ComposeGroups();
                     return true;
                 case "3":
                     return false;
@@ -59,7 +59,7 @@
             Console.ReadLine();
         }
  
-        private static void GroupsComposition()
+        private static void ComposeGroups()
         {
             var students = new List<string>(){};
             students.Add("AFONSO Almeida");
