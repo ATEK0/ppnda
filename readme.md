@@ -9,4 +9,7 @@ Os participantes deste grupo são:
 - Daniel Nogueira
 - Afonso Almeida
 
+Utilizamos tarefas criadas por nós, estas encontram-se a no ficheiro `tarefas.txt`
+
 Muito obrigado :)
+
