@@ -13,6 +13,7 @@
         private static bool MainMenu()
         {
             Console.Clear();
+            Console.WriteLine("Olá! Este programa foi criado pelo professor André Carvalhas!");
             Console.WriteLine("Choose an option:");
             Console.WriteLine("1) Choose Student to Answer Question");
             Console.WriteLine("2) Get Random Groups Composition");
