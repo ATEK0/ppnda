@@ -116,7 +116,7 @@
                 teams.Add(team);
             }
 
-            for(int i=0;i<teams.Count;i++)
+            for(int i=0;i<teams.Count;i++) //dá o nome ao grupo e escreve os elementos em baixo do grupo
             {
                 var team = teams[i];
                 var groupNr = i+1;
