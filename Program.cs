@@ -1,4 +1,5 @@
-﻿namespace ParticipationRoulette
+﻿//Epah este é um comentário aleatorio, achei bastante engraçado :)
+namespace ParticipationRoulette
 {
     class Program
     {
