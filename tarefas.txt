@@ -1,0 +1,10 @@
+1- add readme - Afonso 
+2- alterar função StudentToAnswer para apenas conter os nomes dos elementos do grupo - Nuno
+3- Alterar o nome da função GroupsComposition - Marques
+4- Adicionar comentário para o for que apresenta a informação dos grupos (linha 119) - Paulo
+5- Adicionar ficheiro HTML com os membros do grupo - Daniel
+6- Adicionar ficheiro CSS para estilizar HTML da tarefa 5 - Daniel
+7- Escrever uma linha quando o programa inicia - Paulo
+8- Adicionar comentário que explique o que faz a função random - Nuno 
+9- Criar um comentário no topo do ficheiro a dizer "Este comentário está aqui atoa" - Marques
+10- Adicionar ficheiro com todas as tarefas - Afonso
