@@ -54,6 +54,8 @@
             //Este é outro comentário que me tinha esquecido. 
             var random = new Random(DateTime.Now.Millisecond);
             var  index = random.Next(students.Count);
+
+            //Representa um gerador de número pseudoaleatório, que é um algoritmo que produz uma sequência de números que atendem a certos requisitos estatísticos de aleatoriedade.
             
             Console.WriteLine(students[index]);
             Console.Write("\r\nPress Enter to return to Main Menu");
